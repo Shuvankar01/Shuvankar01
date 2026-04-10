@@ -1,95 +1,76 @@
-  # 💫 ABOUT ME
+<!-- 🌌 DARK NEON HEADER -->
 
-## Hi 👋 I'm Shuvankar Sahoo
+<h1 align="center">Hi 👋, I'm Shuvankar Sahoo</h1>
+<h3 align="center">🚀 Backend Developer | 🤖 AI/ML Enthusiast | 🛰️ SpaceTech Explorer</h3>
 
-🎓 **B.Tech Computer Science Student**
-💻 **Aspiring Backend Developer | AI & ML Enthusiast**
-🚀 Passionate about building **real-world tech solutions** and continuously improving my development skills.
-
----
-
-## 🚀 About Me
-
-* 🌱 Learning **Data Structures & Algorithms (Java)**
-* 🌱 Learning **Python Programming**
-* 🧠 Exploring **Artificial Intelligence & Machine Learning**
-* ⚙️ Interested in **Backend Development & APIs**
-* 🛰️ **SpaceTech enthusiast** passionate about future space-related software
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Future+SpaceTech+Engineer" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 💫 ABOUT ME
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+🎓 B.Tech Computer Science Student
+💻 Aspiring Backend Developer
+🤖 Exploring AI & Machine Learning
+🛰️ Passionate about SpaceTech
+⚡ Focused on building real-world scalable systems
 
 ---
 
-### 🌐 Frontend
+# 🚀 CURRENT FOCUS
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
----
-
-### ⚙️ Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+* 🔥 Data Structures & Algorithms (Java)
+* ⚡ Backend Development (FastAPI / APIs)
+* 🧠 AI-based Projects
+* 💡 Improving Problem Solving Skills
 
 ---
 
-### 🛢 Databases
+# 🛠 TECH STACK
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
----
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,react,tailwind,nodejs,fastapi,mysql,mongodb,postgres,firebase,docker,git,github,postman,vercel,netlify" />
+</p>
 
 ---
 
-## 🌟 Vision & Interests
+# 📈 GITHUB ACTIVITY
 
-### 🧠 Core Interests
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuvankar01&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Shuvankar01&theme=tokyonight" />
+</p>
 
-My primary interests lie in **Artificial Intelligence, Machine Learning, and Backend Engineering**.
-
-### 🎯 Career Goal
-
-My goal is to become a **skilled software developer capable of building scalable backend systems and intelligent applications**.
-
-### ⚡ Growth Philosophy
-
-I believe **consistency, curiosity, and building real-world projects** are the fastest ways to grow as a developer.
 
 ---
 
-## 🌐 Connect With Me
+# 🌟 VISION & GOALS
 
-* LinkedIn: https://www.linkedin.com/in/shuvankarsahoo/
-* Email: [shuvankar.sahoo.001@gmail.com](mailto:shuvankar.sahoo.001@gmail.com)
-* Portfolio
+* 🎯 Become a skilled backend + AI developer
+* ⚡ Build scalable real-world applications
+* 🚀 Contribute to AI & SpaceTech projects
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 CONNECT WITH ME
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shuvankarsahoo/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:shuvankar.sahoo.001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+# ⚡ FUN FACT
+
+💡 “Consistency + Projects = Success in Tech 🚀”
